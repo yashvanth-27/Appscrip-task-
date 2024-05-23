@@ -1,0 +1,12 @@
+import React from 'react';
+
+const FunctionalPage = () => {
+  return (
+    <div>
+      <h1>Welcome to the Functional Page!</h1>
+      <p>This is a functional component in React.js.</p>
+    </div>
+  );
+};
+
+export default FunctionalPage;
