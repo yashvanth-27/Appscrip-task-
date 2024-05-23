@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Your page description here">
+    <title>Your Page Title</title>
+</head>
+<body>
+    <h1>Main Heading</h1>
+    <h2>Subheading</h2>
+    <img src="image.jpg" alt="SEO Friendly Image Name">
+</body>
+</html>
+
+
+h1, h2 {
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
